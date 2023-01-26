@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+<a href="https://app.daily.dev/kishor-550"><img src="https://api.daily.dev/devcards/0dc2760edf4944a5965c225905a14fc7.png?r=jns" width="400" alt="Kishor's Dev Card"/></a>
+
 <!--
 **Kishor-550/Kishor-550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
