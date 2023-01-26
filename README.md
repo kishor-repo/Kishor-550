@@ -24,9 +24,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buy me coffee kishor-550"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me coffee kishor-550" /></a></p>
-<br>
-<br>
 
+
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishor-550&show_icons=true&locale=en&layout=compact" alt="kishor-550" /></p>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kishor-550&show_icons=true&locale=en" alt="kishor-550" /></p>
@@ -37,7 +37,7 @@
 <br>
 
 
-<a href="https://app.daily.dev/kishor-550"><img src="https://api.daily.dev/devcards/0dc2760edf4944a5965c225905a14fc7.png?r=jns" width="400" alt="Kishor's Dev Card"/></a>
+<a align ="right" href="https://app.daily.dev/kishor-550"><img src="https://api.daily.dev/devcards/0dc2760edf4944a5965c225905a14fc7.png?r=jns" width="400" alt="Kishor's Dev Card"/></a>
 
 <!--
 **Kishor-550/Kishor-550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
