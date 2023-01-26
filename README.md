@@ -27,16 +27,16 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishor-550&show_icons=true&locale=en&layout=compact" alt="kishor-550" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishor-550&show_icons=true&locale=en&layout=compact" alt="kishor-550" /></p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kishor-550&show_icons=true&locale=en" alt="kishor-550" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishor-550&" alt="kishor-550" /></p>
+<br>
+<br>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kishor-550&show_icons=true&locale=en" alt="kishor-550" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kishor-550&" alt="kishor-550" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
 <a href="https://app.daily.dev/kishor-550"><img src="https://api.daily.dev/devcards/0dc2760edf4944a5965c225905a14fc7.png?r=jns" width="400" alt="Kishor's Dev Card"/></a>
 
 <!--
