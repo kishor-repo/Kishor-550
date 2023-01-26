@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Kishor</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<a  href="https://app.daily.dev/kishor-550"><img align ="right" src="https://api.daily.dev/devcards/0dc2760edf4944a5965c225905a14fc7.png?r=jns" width="400" alt="Kishor's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishor-550&label=Profile%20views&color=0e75b6&style=flat" alt="kishor-550" /> </p>
 
 - 🔭 I’m currently working on **Library Management**
@@ -39,7 +41,7 @@
 
 
 
-<a  href="https://app.daily.dev/kishor-550"><img align ="right" src="https://api.daily.dev/devcards/0dc2760edf4944a5965c225905a14fc7.png?r=jns" width="400" alt="Kishor's Dev Card"/></a>
+
 
 <!--
 **Kishor-550/Kishor-550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
