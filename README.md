@@ -27,11 +27,15 @@
 <br>
 <br><br><br>
 <br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishor-550&show_icons=true&locale=en&layout=compact" alt="kishor-550" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kishor-550&show_icons=true&locale=en" alt="kishor-550" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kishor-550&" alt="kishor-550" /></p>
-<br>
-<br>
+<div align = "center">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kishor-550&show_icons=true&locale=en&layout=compact" alt="kishor-550" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=kishor-550&show_icons=true&locale=en" alt="kishor-550" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kishor-550&" alt="kishor-550" /></p>
+</div>
+
+
+<br><br><br>
+<br><br><br>
 
 
 
