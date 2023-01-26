@@ -25,9 +25,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buy me coffee kishor-550"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me coffee kishor-550" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishor-550&show_icons=true&locale=en&layout=compact" alt="kishor-550" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishor-550&show_icons=true&locale=en&layout=compact" alt="kishor-550" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kishor-550&show_icons=true&locale=en" alt="kishor-550" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kishor-550&show_icons=true&locale=en" alt="kishor-550" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kishor-550&" alt="kishor-550" /></p>
 
