@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Kishor</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -28,12 +26,14 @@
 <p><a href="https://www.buymeacoffee.com/buy me coffee kishor-550"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me coffee kishor-550" /></a></p>
 <br>
 <br><br><br>
-<br><br><br>
-<div align = "center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kishor-550&show_icons=true&locale=en&layout=compact" alt="kishor-550" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=kishor-550&show_icons=true&locale=en" alt="kishor-550" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kishor-550&" alt="kishor-550" /></p>
-</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishor-550&theme=swift)
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kishor-550&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kishor-550&theme=swift)
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishor-550&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kishor-550&theme=swift&utcOffset=8)
 
 
 <br><br><br>
@@ -43,17 +43,3 @@
 
 
 
-<!--
-**Kishor-550/Kishor-550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
